@@ -30,7 +30,7 @@
     "@tinyanvil/sjcl": "^1.0.8",
     "@types/autoprefixer": "^9.7.0",
     "autoprefixer": "^9.7.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "copy-to-clipboard": "^3.2.1",
     "js-combinatorics": "^0.5.5",
     "lodash-es": "^4.17.15",
