@@ -35,6 +35,6 @@
     "js-combinatorics": "^0.5.5",
     "lodash-es": "^4.17.15",
     "rollup-plugin-node-polyfills": "^0.2.1",
-    "stellar-sdk": "^4.0.1"
+    "stellar-sdk": "^8.2.3"
   }
 }
